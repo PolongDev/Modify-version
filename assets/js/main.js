@@ -378,66 +378,66 @@ const questions = [
     image: "<img src='assets/images/quiz/q1-abstract.png' alt=''>",
     question: "1. Choose the letter that best completes the series.", // Question 25
     answers: [
-      { text: "a.", correct: false},
-      { text: "b.", correct: false},
-      { text: "c.", correct: false},
-      { text: "d.", correct: false},
-      { text: "e.", correct: true}, // Correct Answer
+      { text: "a. d", correct: false},
+      { text: "b. e", correct: true}, // Correct Answer
+      { text: "c. a", correct: false},
+      { text: "d. b", correct: false},
+      { text: "e. c", correct: false},
     ]
   },
   {
     image: "<img src='assets/images/quiz/q2-abstract.png' alt=''>",
     question: "2. Choose the letter that best completes the series.", // Question 26
     answers: [
-      { text: "a.", correct: false},
-      { text: "b.", correct: false},
-      { text: "c.", correct: true}, // Correct Answer
-      { text: "d.", correct: false},
-      { text: "e.", correct: false},
+      { text: "a. b", correct: false},
+      { text: "b. c", correct: true}, // Correct Answer
+      { text: "c. e", correct: false},
+      { text: "d. a", correct: false},
+      { text: "e. d", correct: false},
     ]
   },
   {
     image: "<img src='assets/images/quiz/q3-abstract.png' alt=''>",
     question: "3. Choose the letter that best completes the series.", // Question 27
     answers: [
-      { text: "a.", correct: false},
-      { text: "b.", correct: false},
-      { text: "c.", correct: true}, // Correct Answer
-      { text: "d.", correct: false},
-      { text: "e.", correct: false},
+      { text: "a. c", correct: true}, // Correct Answer
+      { text: "b. d", correct: false},
+      { text: "c. b", correct: false},
+      { text: "d. a", correct: false},
+      { text: "e. e", correct: false},
     ]
   },
   {
     image: "<img src='assets/images/quiz/q4-abstract.png' alt=''>",
     question: "4. Choose the letter that best completes the series.", // Question 28
     answers: [
-      { text: "a.", correct: false},
-      { text: "b.", correct: true}, // Correct Answer
-      { text: "c.", correct: false},
-      { text: "d.", correct: false},
-      { text: "e.", correct: false},
+      { text: "a. d", correct: false},
+      { text: "b. e", correct: false},
+      { text: "c. c", correct: false},
+      { text: "d. b", correct: true}, // Correct Answer
+      { text: "e. a", correct: false},
     ]
   },
   {
     image: "<img src='assets/images/quiz/q5-abstract.png' alt=''>",
     question: "5. Choose the letter that best completes the series.", // Question 29
     answers: [
-      { text: "a.", correct: false},
-      { text: "b.", correct: false},
-      { text: "c.", correct: true}, // Correct Answer
-      { text: "d.", correct: false},
-      { text: "e.", correct: false},
+      { text: "a.  e", correct: false},
+      { text: "b. a", correct: false},
+      { text: "c. b", correct: false},
+      { text: "d. c", correct: true}, // Correct Answer
+      { text: "e. d", correct: false},
     ]
   },
   {
     image: "<img src='assets/images/quiz/q6-abstract.png' alt=''>",
     question: "6. Choose the letter that best completes the series.", // Question 30
     answers: [
-      { text: "a.", correct: true}, // Correct Answer
-      { text: "b.", correct: false},
-      { text: "c.", correct: false},
-      { text: "d.", correct: false},
-      { text: "e.", correct: false},
+      { text: "a. a", correct: true}, // Correct Answer
+      { text: "b. c", correct: false},
+      { text: "c. e", correct: false},
+      { text: "d. d", correct: false},
+      { text: "e. b", correct: false},
     ]
   }
 ];
